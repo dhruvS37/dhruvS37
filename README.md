@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhruv.sanghani37@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1FcdoRhFihNvLhF5_4pGKLJMFTFVTZUBz/view" target="_blank" >My Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1ngLS9psJl5I9gxlfUbCspCwsh0etC8yz/view" target="_blank" >My Resume</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
